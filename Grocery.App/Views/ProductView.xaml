@@ -7,7 +7,7 @@
     
     <Shell.TitleView>
         <Grid>
-            <Label Text="Producten" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Center" />
+            <Label Text="Producten" FontSize="Small" HorizontalOptions="Center" VerticalOptions="Center" />
         </Grid>
     </Shell.TitleView>
 
